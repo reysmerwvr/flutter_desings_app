@@ -9,6 +9,10 @@
 
 ## 👁 Preview
 
+![buttons](buttons.png)
+![scroll](scroll.png)
+![basic](basic.png)
+
 ## ⬇️ Version
 
 1.0.0
