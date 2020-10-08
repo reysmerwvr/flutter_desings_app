@@ -9,6 +9,10 @@
 
 ## 👁 Preview
 
+![buttons](buttons.png)
+![scroll](scroll.png)
+![basic](basic.png)
+
 ## ⬇️ Version
 
 1.0.0
@@ -36,7 +40,6 @@ samples, guidance on mobile development, and a full API reference.
 ## 📦 Resources Links
 
 - [Widgets de la semana - Youtube](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=1)
-- [Source Code](https://github.com/Klerith/flutter-componentes)
 
 ## Meta
 
